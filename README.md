@@ -3,7 +3,6 @@
 - 👩‍💻 Cursando Bacharelado em Ciência da Computação.
 - 🕹️ Desenvolvendo jogos pelo GameMaker Studio 2
 - 🌱 Estudando HTML/CSS/JS
-- 😄 Pronomes: ele/dele
 
 <div>
 <a href="https://www.instagram.com/fkaiquesp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,7 +10,6 @@
 <a href="https://www.linkedin.com/in/kaique-silva-25960b35a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
-<img src="https://profile-counter.glitch.me/{Fkaique}/count.svg" alt="Ingrid :: Visitor's Count" />
 
 <div>
 <a href="https://github.com/Fkaique">
@@ -34,4 +32,8 @@
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
 <img align="center" alt="GameMakerLanguage" height="30" width="30" src="https://img.utdstc.com/icon/09b/8c5/09b8c56ebaf0e8528022d175284f4ff0ba793b664086c5c5e668879cf4a06245:200">
 </div>
-  
+<div style="display: inline_block"><br>
+contador de visitas:<br><br>
+ </div>
+<img src="https://profile-counter.glitch.me/{Fkaique}/count.svg" alt="Ingrid :: Visitor's Count" />
+
