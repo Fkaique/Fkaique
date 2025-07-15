@@ -33,7 +33,3 @@
 <img align="center" alt="GameMakerLanguage" height="30" width="30" src="https://img.utdstc.com/icon/09b/8c5/09b8c56ebaf0e8528022d175284f4ff0ba793b664086c5c5e668879cf4a06245:200">
 </div>
 <div style="display: inline_block"><br>
-contador de visitas:<br><br>
- </div>
-<img src="https://profile-counter.glitch.me/{Fkaique}/count.svg" alt="Ingrid :: Visitor's Count" />
-
