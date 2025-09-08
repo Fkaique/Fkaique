@@ -19,9 +19,9 @@
 
 #### Alguns projetos mais relevantes 
 
-- <a href="https://fkaique.github.io/">fkaique.github.io</a>
 - <a href="https://mysteriescradle.itch.io/">MysteriesCradle.itch.io</a>
 - <a href="https://gx.games/pt-br/studios/b861e49e-f878-4cf1-8b3c-5c48eb75418e/">MysteriesCradle.gx.games</a>
+- <a href="https://codepen.io/Fkaique">codepen.io/Fkaique</a>
 
 <div style="display: inline_block"><br>
  
