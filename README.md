@@ -28,8 +28,9 @@
 <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="ing-github" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="ing-javascript" width="30" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="ing-python" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-<img align="center" alt="GameMakerLanguage" height="30" width="30" src="https://img.utdstc.com/icon/09b/8c5/09b8c56ebaf0e8528022d175284f4ff0ba793b664086c5c5e668879cf4a06245:200">
+<img align="center" alt="ing-typescript" width="30" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="ing-C#" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="ing-C" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
+<img align="center" alt="ing-GameMakerLanguage" height="40" width="30" src="https://svgrepo.com/download/373617/gamemaker.svg">
 </div>
 <div style="display: inline_block"><br>
