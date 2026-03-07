@@ -1,9 +1,8 @@
 # <div align="center"><img src="/assets/euBanner.gif" /></div>
 
-
 ```xml
 <F>
- <FKtext>Uopa, Pessoas! Bem vindo(a) ao meu perfil :)</FKtext>
+ <FKtext> Uopa, Pessoas! Bem vindo(a) ao meu perfil :) </FKtext>
  <FKlist>
   - 👩‍💻 Cursando Bacharelado em Ciência da Computação.
   - 🕹️ Desenvolvendo minha Engine de Jogos com TypeScript
