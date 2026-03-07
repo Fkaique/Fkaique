@@ -36,8 +36,8 @@
 
 
 <div>
-<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fkaique&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/>
-<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fkaique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fkaique&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fkaique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>       
 <div>
 <a href="https://www.instagram.com/fkaiquesp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
