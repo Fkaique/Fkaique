@@ -39,7 +39,7 @@
 </div><br>
 
 <div>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fkaique&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/><br>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fkaique&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fkaique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>       
 
