@@ -6,7 +6,7 @@
  <FKtext>Uopa, Pessoas! Bem vindo(a) ao meu perfil :)</FKtext>
  <FKlist>
   - 👩‍💻 Cursando Bacharelado em Ciência da Computação.
-  - 🕹️ Desenvolvendo jogos pelo GameMaker Studio 2
+  - 🕹️ Desenvolvendo minha Engine de Jogos com TypeScript
   - 🌱 Estudando HTML/CSS/JS
  </FKlist>
  <FooterK>
