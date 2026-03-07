@@ -35,13 +35,13 @@
 
 
 
-<div >
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fkaique&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fkaique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div>
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fkaique&layout=compact&Language&hide_progress=true&langs_count=3&theme=radical"/>
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fkaique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>       
 <div>
 <a href="https://www.instagram.com/fkaiquesp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:kaique.918273@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:kaique.918273@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/francisco-kaique-da-silva-pereira-25960b35a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
