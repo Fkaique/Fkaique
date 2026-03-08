@@ -6,7 +6,7 @@
  <FKlist>
   - 👩‍💻 Cursando Bacharelado em Ciência da Computação.
   - 🕹️ Desenvolvendo minha Engine de Jogos com TypeScript
-  - 🌱 Estudando HTML/CSS/JS
+  - 🌱 Estudando NodeJs
  </FKlist>
  <FooterK>
   © Meu Perfil. Por Fkaique, 2024
