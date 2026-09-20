@@ -42,12 +42,24 @@
 <a href="https://www.linkedin.com/in/francisco-kaique-da-silva-pereira-25960b35a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br />
 
+<div align="center" >
+ <picture>
+  <source media="(prefers-color-scheme: dark)" width="90%" srcset="https://raw.githubusercontent.com/Fkaique/Fkaique/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fkaique/Fkaique/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha do GitHub" src="https://raw.githubusercontent.com/Fkaique/Fkaique/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
+
+</div>
+
 
 #### Alguns projetos mais relevantes 
 
 - <a href="https://mysteriescradle.itch.io/">MysteriesCradle.itch.io</a>
 - <a href="https://gx.games/pt-br/studios/b861e49e-f878-4cf1-8b3c-5c48eb75418e/">MysteriesCradle.gx.games</a>
 - <a href="https://codepen.io/Fkaique">codepen.io/Fkaique</a>
+
+
 
 
