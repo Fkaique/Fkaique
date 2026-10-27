@@ -22,7 +22,7 @@
  <img align="center" title="CSS" alt="CSS3" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" title="typescript" alt="ing-typescript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img align="center" title="git-plain" alt="ing-git-plain" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
- <img align="center" title="gamemakerstudio2" alt="ing-GameMakerLanguage" width="30" src="https://svgrepo.com/download/373617/gamemaker.svg" />
+ <img align="center" title="gamemakerstudio2" alt="ing-GameMakerLanguage" width="30" src="https://www.svgrepo.com/show/373617/gamemaker.svg" />
  <img align="center" title="archlinux" alt="archlinux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" />
  <img align="center" title="pygame" alt="ing-python" width="30" src="https://www.pygame.org/docs/_images/pygame_logo.png" />
  <img align="center" title="c-sharp" alt="ing-C#" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
